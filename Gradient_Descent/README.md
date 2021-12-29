@@ -11,4 +11,5 @@
 
 5. 批量随机梯度下降
 ![Figure_2](https://user-images.githubusercontent.com/48550819/147671500-80da2a8c-5e0e-430c-8eac-68fea5ed8676.png)
+
 **注：由于训练数据是随机生成的，代码每次运行结果会有细微差别，但结果反映的趋势是一致的。**
